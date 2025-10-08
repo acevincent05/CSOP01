@@ -34,9 +34,5 @@ public class Rectangle {
     userRect.displayArea();
     
     scanner.close();
+    }
 }
-
-}
-
-
-
