@@ -19,9 +19,7 @@ class Encapsulation{
     }   
 }
 
-public class EncapsulationExample {
-    
-    
+public class EncapsulationExample {    
     public static void main(String[] args) 
     {
         Encapsulation display = new Encapsulation();
