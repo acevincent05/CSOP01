@@ -16,7 +16,7 @@ class productDetails{
     
     public void setProdName(String name)
     {
-        prodName = name;d
+        prodName = name;
     }
     
     public void setProdPrice(double price)
@@ -46,8 +46,6 @@ public class Product{
     
     p.display();
     
-    
     }
     
 }
-
